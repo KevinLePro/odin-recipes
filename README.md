@@ -1,2 +1,2 @@
 # odin-recipes
-My basic recipe website
+This is my basic recipe website for making a bowl of cereal.
